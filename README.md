@@ -5,5 +5,6 @@ Integrantes del Equipo:
   Cruz Pablo Ivan Axel.
   Perez Santos Javier Manuel.
   Bautista Hernández Jalil Damián
+  Hernandez Herandez Rebeca Izmucaneth.
   
   
