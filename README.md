@@ -1,11 +1,11 @@
 # CodeCreators
 Proyecto Integrador DSOS
 Integrantes del Equipo:
-  Carmona Gonzalez Daniel.
-  Cruz Pablo Ivan Axel.
-  Perez Santos Javier Manuel.
-  Bautista Hernández Jalil Damián.
-  Hernandez Herandez Rebeca Izmucaneth.
+  * Carmona González Daniel.
+  * Cruz Pablo Ivan Axel.
+  * Pérez Santos Javier Manuel.
+  * Bautista Hernández Jalil Damián.
+  * Hernández Hernández Rebeca Izmucaneth.
   
 # RedesSociales:
 * Correo Electrónico: codecreators.1dsos@gmail.com
