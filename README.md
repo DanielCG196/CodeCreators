@@ -6,6 +6,7 @@ Integrantes del Equipo:
   * Pérez Santos Javier Manuel.
   * Bautista Hernández Jalil Damián.
   * Hernández Hernández Rebeca Izmucaneth.
+  * Martinez Santos Bernardo
   
 # RedesSociales:
 * Correo Electrónico: codecreators.1dsos@gmail.com
